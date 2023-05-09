@@ -1,0 +1,77 @@
+body {
+    background-image: url('immagini/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+.container {
+    width: 100%;
+    max-width: 1320px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+  }
+.logo {
+  display:block;
+  margin:0 auto;
+    width: 20%;
+  
+    
+}
+
+.Titolo {
+        color: #00dd00;
+        text-align: center;
+        
+
+}
+
+.button {
+    text-align: center;
+    padding: 12px;
+    background-color: #00dd00 ;
+}
+
+.Scritta {
+    color: white;
+
+}
+
+.mono {
+    display:inline-block;
+    font-size: 25px;
+
+}
+
+.Via {
+    display:block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.my-shape {
+    width: 300px;
+    height: 25px;
+    background-color: #ffc955;
+    border-radius: 5px;
+}
+
+.my-shape1 {
+    width: 500px;
+    height: 25px;
+    background-color: #5df108;
+    border-radius: 5px;
+}
+
+.my-shape2 {
+    width: 150px;
+    height: 25px;
+    background-color: #c54646;
+    border-radius: 5px;
+}
+	
